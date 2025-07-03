@@ -1,0 +1,2 @@
+time,T_pipe_ave,T_reac_ave,T_reac_bot,T_reac_max,T_reac_top,T_ref_ave,T_ref_max,T_ref_wall,average_T,c1_inlet,c1_outlet,c2_inlet,c2_outlet,c3_inlet,c3_outlet,c4_inlet,c4_outlet,c5_inlet,c5_outlet,c6_inlet,c6_outlet,cp_avg,flow,heat-input-pipe-pp,heat-input-ref-pp,heat-loss-pipe,heat-loss-ref,k_avg,max_v,pdrop-mixing-plate,phi0-pp,reactor-power,reactor-power-func,rho_avg,viscosity_avg
+10000000,0,0,0,0,0,0,0,0,899.99999999995,0,0,0,0,0,0,0,0,0,0,0,0,640.87463074074,0,0,0,0,0,0.38381737037038,0,0,0,0,0,3250.8600000001,0.0053076017202328
